@@ -15,7 +15,7 @@ This repository contains the MATLAB code that accompanies the paper
 
 ## Usage
 Run either `main.m` file to setup the model, design the MPC, run closed-loop simulations, generate plots and compare quantative metrics. 
-Some settings can be changed with booleans in the beginning of code, e.g., to make a short simulation and not simulate some methods that take longer.
+Some settings can be toggled in the beginning of code, e.g., to make a short simulation and not simulate some methods that take longer.
 
 ![Adaptive MPC navigating a drone through obstacles while learning the model parameters online](Drone.png)
 
