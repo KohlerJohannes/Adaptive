@@ -14,7 +14,7 @@ This repository contains the MATLAB code that accompanies the paper
 - [Casdadi](https://web.casadi.org/)  
 
 ## Usage
-Run `main.m` in either folder to setup the modle, design the MPC, run closed-loop simulations, generate plots and save results. 
+Run either `main.m` file to setup the model, design the MPC, run closed-loop simulations, generate plots and compare quantative metrics. 
 Some settings can be changed with booleans in the beginning of code, e.g., to make a short simulation and not simulate some methods that take longer.
 
 ![Adaptive MPC navigating a drone through obstacles while learning the model parameters online](Drone.png)
