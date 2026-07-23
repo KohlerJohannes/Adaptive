@@ -3,7 +3,7 @@
 ## Description
 
 This repository contains the MATLAB code that accompanies the paper 
->  Johannes Köhler "Certainty-equivalent adaptive MPC for uncertain nonlinear systems", 2026.
+>  Johannes Köhler "Certainty-equivalent adaptive MPC for uncertain nonlinear systems", 2026  [ArXiv](https://arxiv.org/abs/2603.17843).
 
 
 ## Prerequisites
